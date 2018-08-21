@@ -1,0 +1,5 @@
+:partialsdir: ./_partials
+
+include::{partialsdir}/partialsdir-included-content.adoc[]
+
+include::non-partials-included-content.adoc[]
